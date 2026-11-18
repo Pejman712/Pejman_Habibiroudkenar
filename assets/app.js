@@ -115,4 +115,18 @@
   document.querySelector('#year').textContent = new Date().getFullYear();
   revealAnchor();
   updateScrollState();
+
+  // Fade sections on entry in either scroll direction without changing layout.
+  if ('IntersectionObserver' in window) {
+    const sections = document.querySelectorAll('.hero, .affiliations, .chapter-cover, .chapter-content, .contact-section');
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => entry.target.classList.toggle('is-visible', entry.isIntersecting));
+    }, {rootMargin: '0px 0px -6% 0px', threshold: 0});
+    sections.forEach(section => {
+      const bounds = section.getBoundingClientRect();
+      section.classList.toggle('is-visible', bounds.bottom > 0 && bounds.top < window.innerHeight * .94);
+      section.classList.add('section-fade');
+      observer.observe(section);
+    });
+  }
 })();
