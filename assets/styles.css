@@ -15,6 +15,7 @@
 @media(max-width:800px){.applied-projects .project-links{grid-column:2}}
 /* Theme existing content photos with CSS; source files remain unchanged. */
 .chapter-backdrop{filter:grayscale(1) brightness(.8) contrast(1.06)}
+#consultancy .chapter-backdrop{scale:-1 1}
 #research .chapter-backdrop{filter:grayscale(1) invert(1);mix-blend-mode:screen;object-fit:contain;object-position:right center;inset:0 0 0 auto;width:72%;height:100%;padding:35px 20px;transform:none}
 #projects .chapter-backdrop{object-fit:contain;object-position:right center;inset:0 0 0 auto;width:65%;height:100%;transform:none}
 #projects .cover-shade{background:linear-gradient(90deg,#101313 20%,#101313b0 48%,transparent 78%),linear-gradient(transparent 55%,#101313)}
