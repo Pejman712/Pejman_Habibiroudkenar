@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image generation",
+  "images": [
+    {
+      "name": "consultancy",
+      "prompt": "Create a wide 16:9 cinematic editorial photograph for a professional robotics engineer portfolio. Consistent art direction: almost black charcoal background, monochrome metal and subtle muted turquoise indicator lights only, realistic engineering details, low-key soft studio lighting, finely detailed, sophisticated and restrained. Main subject on the RIGHT half, left half dark with very subtle environmental detail for white text overlay. No text, logos, labels, people or watermarks. This is a conceptual illustration, not documentation of a real project. A compact precision robotic arm on an engineering workbench, a small depth camera, neatly organized cabling and a laptop edge, beautifully lit machined metal, context of thoughtful robotics system integration.",
+      "saved_asset": "assets/images/consultancy-hero.png"
+    },
+    {
+      "name": "research",
+      "prompt": "Create a wide 16:9 cinematic editorial photograph for a professional robotics engineer portfolio. Consistent art direction: almost black charcoal background, monochrome metal and subtle muted turquoise indicator lights only, realistic engineering details, low-key soft studio lighting, finely detailed, sophisticated and restrained. Main subject on the RIGHT half, left half dark with very subtle environmental detail for white text overlay. No text, logos, labels, people or watermarks. This is a conceptual illustration, not documentation of a real project. A compact autonomous wheeled research robot with a cylindrical LiDAR sensor in a dark industrial corridor. A delicate sparse turquoise point-cloud visualization traces the corridor geometry around the robot, visually suggesting spatial perception. Grounded realistic robotics with subtle visualization, not science fiction.",
+      "saved_asset": "assets/images/research-hero.png"
+    },
+    {
+      "name": "projects",
+      "prompt": "Create a wide 16:9 cinematic editorial photograph for a professional robotics engineer portfolio. Consistent art direction: almost black charcoal background, monochrome metal and subtle muted turquoise indicator lights only, realistic engineering details, low-key soft studio lighting, finely detailed, sophisticated and restrained. Main subject on the RIGHT half, left half dark with very subtle environmental detail for white text overlay. No text, logos, labels, people or watermarks. This is a conceptual illustration, not documentation of a real project. An elegant engineering workbench with a small four-wheel mobile robot prototype, exposed chassis, motor assemblies, sensor modules and neatly routed wires. A few carefully arranged components nearby, workshop background fading into darkness. Focus on hands-on building and prototyping.",
+      "saved_asset": "assets/images/projects-hero.png"
+    }
+  ]
+}

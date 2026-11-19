@@ -1,0 +1,77 @@
+{
+  "brandIcons": [
+    {
+      "file": "python.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg",
+      "sha": "e0e096a24e59fb9f1e501899389e3905c6c27cd7",
+      "modified": "Recolored to the website charcoal/teal palette; original geometry retained"
+    },
+    {
+      "file": "cplusplus.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg",
+      "sha": "6cae2226d09d9b41d074169a19955cbffa104698",
+      "modified": "Recolored to the website charcoal/teal palette; original geometry retained"
+    },
+    {
+      "file": "pytorch.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg",
+      "sha": "8461b1417f904b74471f4febe154d72e4c1cf027",
+      "modified": "Recolored to the website charcoal/teal palette; original geometry retained"
+    },
+    {
+      "file": "tensorflow.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg",
+      "sha": "93dc2056e8f16ff1ec80546d55eedbfe215725d1",
+      "modified": "Recolored to the website charcoal/teal palette; original geometry retained"
+    },
+    {
+      "file": "matlab.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg",
+      "sha": "0eb7d20250b5af4d84cf86d40ed1cdda4c42d158",
+      "modified": "Recolored to the website charcoal/teal palette; original geometry retained"
+    },
+    {
+      "file": "unity.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg",
+      "sha": "64d6a61b79e84cdf1bdda2156eeed49c6abdd4f8",
+      "modified": "Recolored to the website charcoal/teal palette; original geometry retained"
+    },
+    {
+      "file": "ros.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg",
+      "sha": "622676e903cb5addc32d961675a72a68a9965763",
+      "modified": "Recolored to the website charcoal/teal palette; original geometry retained"
+    },
+    {
+      "file": "git.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg",
+      "sha": "93f25f9235d5b3fdfc9b9c8256941a1ec22523af",
+      "modified": "Recolored to the website charcoal/teal palette"
+    },
+    {
+      "file": "docker.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg",
+      "sha": "bbeaed2effdc1f6840aff73491a5faa2a585885b",
+      "modified": "Recolored to the website charcoal/teal palette"
+    },
+    {
+      "file": "blender.svg",
+      "source": "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg",
+      "sha": "ca474126a857ae44de47c155bbbb1dea85d0628c",
+      "modified": "Recolored to the website charcoal/teal palette"
+    }
+  ],
+  "customIcons": [
+    "ros2.svg (ROS dots with version badge)",
+    "lidar.svg",
+    "imu.svg",
+    "slam.svg",
+    "point-clouds.svg",
+    "simulink.svg",
+    "nx.svg",
+    "solidworks.svg",
+    "visual-components.svg"
+  ],
+  "note": "Custom icons are geometric illustrations of function, not official brand marks. ROS 2 uses the Devicon ROS mark with a version badge.",
+  "theme": "All SVGs use the palette in scripts/theme_tool_icons.py. Custom diagrams share the same colors."
+}

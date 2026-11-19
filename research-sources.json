@@ -1,0 +1,93 @@
+{
+  "checked": "2026-11-18",
+  "local_sources": [
+    "info.txt",
+    "CV_template4 (1).pdf",
+    "pics/workshop/",
+    "pics/misc/"
+  ],
+  "references": [
+    {
+      "topic": "Aalto lab affiliation",
+      "url": "https://www.aalto.fi/en/department-of-energy-and-mechanical-engineering/autonomy-mobility-lab"
+    },
+    {
+      "topic": "HIP doctoral researcher, Robotics and AI",
+      "url": "https://www.hip.fi/people/?g=robot"
+    },
+    {
+      "topic": "CERN presentation",
+      "url": "https://indico.cern.ch/event/1457941/?view=standard_numbered_inline_minutes"
+    },
+    {
+      "topic": "DynaHull publication, 26 November 2024",
+      "url": "https://researchportal.helsinki.fi/en/publications/dynahull-density-centric-dynamic-point-filtering-in-point-clouds/",
+      "doi": "10.1007/s10846-024-02203-2"
+    },
+    {
+      "topic": "LiDAR scan correction, IEEE Access, 2026",
+      "url": "https://vbn.aau.dk/da/publications/non-repetitive-scan-correction-for-lidar-odometry-via-spatial-ana/",
+      "doi": "10.1109/ACCESS.2026.3680632"
+    },
+    {
+      "topic": "Drone forecasting, ICUAS 2026, correct author order",
+      "url": "https://research.aalto.fi/en/publications/event-only-drone-trajectory-forecasting-with-rpm-modulated-kalman/",
+      "doi": "10.1109/ICUAS69441.2026.11598655"
+    },
+    {
+      "topic": "Robotic radiation surveys, journal issue March 2026, online December 2025",
+      "url": "https://aaltodoc.aalto.fi/server/api/core/bitstreams/d6296ddf-2e4a-438f-8786-d4608cea7d6e/content",
+      "doi": "10.1007/s10846-025-02342-0"
+    },
+    {
+      "topic": "CHARM co-authored conference research",
+      "url": "https://www.scitepress.org/PublicationsDetail.aspx?ID=pgAGKHn3xXo%3D&t=1"
+    },
+    {
+      "topic": "CERN scan dataset, six environments",
+      "url": "https://research.aalto.fi/en/datasets/unitree-unilidar-l1-scans-in-cern-facilities/",
+      "doi": "10.5281/zenodo.17091989"
+    },
+    {
+      "topic": "Low-light detection preprint, October 2026",
+      "url": "https://arxiv.org/abs/2610.23621"
+    },
+    {
+      "topic": "Aalto Robotics Club competitions coach",
+      "url": "https://site.aaltoroboticsclub.fi/"
+    },
+    {
+      "topic": "Workshop context, 27 October 2026",
+      "url": "https://brouky.tech/events/lidar-localization-workshop-2026-10-27"
+    },
+    {
+      "topic": "Junction 2025 Sensofusion challenge team win",
+      "url": "https://www.linkedin.com/posts/dimitrios-bouzoulas-204664182_got-1st-place-at-junction-2025-in-the-event-activity-7400563791312175105-jqQS"
+    },
+    {
+      "topic": "PJM Robotics, awards and grant, self-reported profile also supported by supplied CV",
+      "url": "https://fi.linkedin.com/in/pejman-habibiroudkenar-003119217"
+    },
+    {
+      "topic": "Original point-cloud map, scan pattern and trajectory plots; repository Apache 2.0 license",
+      "url": "https://github.com/Pejman712/Non_Repetetive_LiDAR_Registertion",
+      "files": {
+        "assets/images/lidar-experiments.png": "Figures/iilabs.png",
+        "assets/images/lidar-scans.png": "Figures/non_rep.png",
+        "assets/images/lidar-lab.png": "Figures/iilabviz.png"
+      },
+      "modifications": "None; PNG files reproduced byte-for-byte. Figures open locally at full resolution."
+    }
+  ],
+  "editorial_notes": [
+    "Use doctoral researcher, not Dr.; doctorate is ongoing.",
+    "CERN is a past visiting research role, not current employment or an endorsement.",
+    "The CV's Sensors 2025 radiation survey entry is replaced on the page by the verified journal title and 2026 issue date.",
+    "Drone paper author order follows Aalto's published record; Pejman is second author.",
+    "The supplied PJM Robotics and HIP-CERN presentation URLs could not be fetched. They are preserved as user-supplied links.",
+    "CV-provided academic grades and experience dates are not independently audited.",
+    "The original CV is provided unmodified; its older branding and publication descriptions remain in the PDF.",
+    "Research project summaries distinguish first-author, co-author and dataset co-creator roles; results are limited to the evaluated datasets. The decorative tunnel was replaced by original research figures.",
+    "The full-screen monochrome hero is AI-restyled from the supplied portrait, with the approved mockup’s baked-in interface removed. Real HTML text and links overlay the photo. Desktop chapter images change with scroll; mobile images are inline."
+  ]
+}

@@ -1,0 +1,5 @@
+Tool: built-in image generation
+Input: assets/images/pejman-hero-v3.png
+Saved asset: assets/images/pejman-hero-v4.png
+
+Use case: identity-preserve. Edit target: the supplied monochrome professional portrait. Change ONLY the hair: make it a little longer, especially across the top, and neatly, uniformly comb it toward the LEFT EDGE OF THE IMAGE (the viewer's left). Create a natural side-swept professional hairstyle with all the top strands following the same smooth leftward direction, modest natural volume and realistic individual hair texture. The change in length should be subtle, not long hair; keep the sides neat. Preserve his natural hairline and hair color. Keep his identity, facial proportions, facial features, expression, glasses, head posture, skin texture, clothes, body, lighting, black-and-white treatment, dark textured background, image dimensions and wide framing unchanged. No other retouching. No text.

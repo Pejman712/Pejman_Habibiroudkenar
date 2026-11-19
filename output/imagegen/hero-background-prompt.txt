@@ -1,0 +1,7 @@
+Tool: built-in image_gen
+Mode: edit of the approved homepage mockup
+Saved asset: assets/images/pejman-hero.png
+Reference: exec-f9b37d8f-e39b-4619-aee4-055ed269b8ec.png
+
+Prompt:
+Create a production website BACKGROUND PHOTOGRAPH from this approved mockup. Remove ALL website interface elements: every letter of text at top and center, navigation labels, the large name, Robotic Engineer subtitle, both Work With Me buttons, turquoise button shape, outlines, and the bottom chevron. Fill those areas naturally with the underlying dark textured wall or dark shirt. Preserve the existing man exactly: same recognizable Pejman identity, face, glasses, hair, natural smile, pose, body proportions, shirt, black-and-white lighting, framing, texture and composition. Do not retouch his face or change his appearance. Keep the whole landscape 16:9 image, with portrait centered and dark textured black background extending to both sides. Output only the finished monochrome photograph with absolutely no text, symbols, interface, watermark, graphic, or border. Preserve everything other than the removed overlaid website UI.

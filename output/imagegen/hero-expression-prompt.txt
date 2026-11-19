@@ -1,0 +1,5 @@
+Tool: built-in image generation
+Input: assets/images/pejman-hero.png
+Saved asset: assets/images/pejman-hero-v2.png
+
+Edit this exact portrait with very subtle adjustments only. Make the man's head posture slightly more upright and professionally composed, with less head tilt. Reduce the existing smile to a relaxed, nearly neutral closed-mouth expression: approachable, confident, natural, not stern. Preserve his recognizable identity, facial proportions, age, glasses, hairstyle, facial hair, clothing, shoulders and body position. Preserve the exact wide composition, portrait scale and placement, monochrome photographic treatment, lighting and dark textured background. Minimal realistic retouching, no beautification or face replacement, no text or graphics. This is a professional robotics engineer's website hero portrait.

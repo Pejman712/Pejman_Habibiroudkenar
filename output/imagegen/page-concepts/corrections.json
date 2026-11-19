@@ -1,0 +1,12 @@
+[
+  {
+    "name": "research",
+    "path": "/home/powerhouse2/.codex/generated_images/01a1eefb-fd8e-7c03-a09d-1f8d170ec51a/exec-58033dfe-f8d3-4253-afa2-571a1e0a1ce3.png",
+    "prompt": "Edit this website mockup with one very specific change: in the bottom-left DynaHull panel, REMOVE the red-and-green radial scan-pattern thumbnail and its thin turquoise vertical divider. That scan image belongs to a different research project. Make the DynaHull panel text-only, with its existing title, description, venue and Read Paper link aligned neatly to the left with normal 24px padding, matching the adjacent Drone trajectory forecasting panel. Preserve every other aspect of this image exactly: header, portrait, typography, all wording, main point-cloud map, all four trajectory plots, colors, layout dimensions and footer. Do not add any replacement image or new content."
+  },
+  {
+    "name": "publications",
+    "path": "/home/powerhouse2/.codex/generated_images/01a1eefb-fd8e-7c03-a09d-1f8d170ec51a/exec-201e0e5c-9e3b-41e8-a495-ee3267bc41af.png",
+    "prompt": "Edit this website mockup with ONLY this correction: REMOVE the small red-and-green radial scan-pattern thumbnail from the 2024 DynaHull publication row, leaving the same clean white thumbnail area used for the other text-only publication rows. The thumbnail belongs to a different project. Keep all six publication titles and venues, row positions, year badges, first-row point-cloud thumbnail, full header and tunnel image, typography, colors, buttons, footer, overall dimensions and every other element exactly unchanged. Do not add replacement imagery or modify text."
+  }
+]

@@ -1,0 +1,5 @@
+Tool: built-in image generation
+Input: assets/images/pejman-hero-v4.png
+Saved asset: assets/images/pejman-hero-v5.png
+
+Use case: identity-preserve. Edit target: supplied monochrome portrait. Change ONLY his hair, making it noticeably longer than the current short style: medium-length top with substantially longer flowing strands, approximately twice the current strand length, neatly and uniformly combed toward the viewer's LEFT. Give the longer top a smooth natural side sweep, extending across the upper forehead toward the left temple, with a little more length at the sides, while keeping ears and glasses visible. Professional groomed appearance, realistic hair texture, natural volume rather than a tall quiff. The increased length must be clearly visible. Preserve natural hairline and color. Keep face, identity, facial proportions, expression, glasses, head angle, skin texture, clothing, body, lighting, monochrome treatment, dark background and exact wide framing unchanged. No text, no other retouching.

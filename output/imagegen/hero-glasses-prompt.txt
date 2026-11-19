@@ -1,0 +1,5 @@
+Tool: built-in image generation
+Input: assets/images/pejman-hero-v2.png (three edits before v5)
+Saved asset: assets/images/pejman-hero-v6.png
+
+Use case: precise-object-edit. The supplied image is the exact edit target, an earlier approved monochrome portrait. Make ONLY one small correction: straighten his eyeglasses so the frame sits level and naturally aligned on his face, with both lenses at balanced heights and the bridge properly centered on his nose. Preserve the exact existing frame design, shape, size, color, lens transparency and realistic perspective. Do not change the eyes or face to achieve alignment. Preserve absolutely everything else: this exact short tousled hairstyle and its length, identity, facial proportions, skin texture, neutral expression, head angle, clothing, body, lighting, monochrome treatment, dark textured background and wide framing. Do not comb or lengthen his hair. No beautification, no additional retouching, no text.

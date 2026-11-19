@@ -1,0 +1,5 @@
+Tool: built-in image generation
+Input: assets/images/pejman-hero-v6.png
+Saved asset: assets/images/pejman-hero-v7.png
+
+Use case: identity-preserve. Edit target: supplied monochrome portrait. Change ONLY the grooming of his existing short hair: neatly comb and sweep the top toward the viewer's LEFT, taming upward spikes and flyaways into a subtle consistent sideways direction. Keep the current short length, natural hairline, density and modest volume. Natural textured short side-combed hairstyle, not longer hair, not a tall quiff, not slick wet hair. Preserve the exact straight, level eyeglasses and their design. Keep identity, facial features, expression, head posture, skin texture, clothing, body, lighting, monochrome treatment, dark background and wide composition unchanged. Minimal localized hair retouching only. No text.

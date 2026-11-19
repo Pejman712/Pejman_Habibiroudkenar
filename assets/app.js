@@ -32,7 +32,7 @@
   document.addEventListener('click', event => {
     if (!event.target.closest('.site-header')) closeMenu();
   });
-  window.matchMedia('(min-width: 801px)').addEventListener('change', closeMenu);
+  window.matchMedia('(min-width: 1201px)').addEventListener('change', closeMenu);
 
   function setActiveChapter(id) {
     if (id === activeChapter) return;
@@ -107,7 +107,7 @@
     });
     publications.forEach(item => { item.hidden = filter !== 'all' && item.dataset.type !== filter; });
     const count = publications.filter(item => !item.hidden).length;
-    const labels = {all: 'selected publication', journal: 'journal article', conference: 'conference paper', preprint: 'preprint'};
+    const labels = {all: 'publication', journal: 'journal article', conference: 'conference paper', preprint: 'preprint'};
     document.querySelector('#publication-count').textContent = `${count} ${labels[filter]}${count === 1 ? '' : 's'}`;
     scheduleScrollUpdate();
   }));

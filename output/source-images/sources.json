@@ -1,0 +1,52 @@
+{
+  "retrieved": "2026-11-18",
+  "sources": [
+    {
+      "site": "PJM Robotics",
+      "url": "https://pejman712.github.io/PJMrobotics/",
+      "repository": "https://github.com/Pejman712/PJMrobotics",
+      "finding": "Current page and repository contain mapping data, project animations and video; no captioned photographs of Pejman."
+    },
+    {
+      "site": "HIP\u2013CERN talk",
+      "url": "https://pejman712.github.io/HIP-CERN-Talk-v2/",
+      "repository": "https://github.com/Pejman712/HIP-CERN-Talk-v2",
+      "finding": "The presentation names Pejman Habibiroudkenar as its presenter. Two image alt texts explicitly describe the presenter; the SPS photo describes a team without naming individuals."
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/images/cern/charmtest.jpg",
+      "url": "https://raw.githubusercontent.com/Pejman712/HIP-CERN-Talk-v2/main/assets/img/charmtest.jpg",
+      "alt": "Presenter teleoperating CHARMBot along a facility corridor with a laptop",
+      "caption": "Teleoperating CHARMBot through a service corridor during a mapping run",
+      "attribution": "Presenter identified by presentation text, not facial recognition."
+    },
+    {
+      "file": "assets/images/cern/intro.jpg",
+      "url": "https://raw.githubusercontent.com/Pejman712/HIP-CERN-Talk-v2/main/assets/img/intro.jpg",
+      "alt": "Presenter walking an inspection robot across a CERN service yard",
+      "attribution": "Presenter identified by presentation text, not facial recognition."
+    },
+    {
+      "file": "assets/images/cern/spstest.jpg",
+      "url": "https://raw.githubusercontent.com/Pejman712/HIP-CERN-Talk-v2/main/assets/img/spstest.jpg",
+      "alt": "Team preparing the survey robot inside a large SPS beam-dump hall",
+      "caption": "Preparing the survey robot on site in an SPS beam-dump area",
+      "attribution": "Team photo; source does not identify individuals."
+    },
+    {
+      "file": "assets/images/cern/charmbot-only.jpg",
+      "url": "https://raw.githubusercontent.com/Pejman712/HIP-CERN-Talk-v2/main/assets/img/p11-001.jpg",
+      "alt": "CHARMBot view",
+      "source_section": "CHARMBot mechanical overview",
+      "treatment": "Original file, CSS-only grayscale and dark overlay."
+    },
+    {
+      "file": "assets/images/cern/charmbot-cutout.png",
+      "derived_from": "assets/images/cern/charmbot-only.jpg",
+      "treatment": "Hand-guided GrabCut background mask with feathered alpha edges. Original RGB pixels retained. No image generation.",
+      "script": "scripts/mask_charmbot.py"
+    }
+  ]
+}

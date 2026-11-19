@@ -1,0 +1,5 @@
+Tool: built-in image generation
+Input: assets/images/pejman-hero-v2.png
+Saved asset: assets/images/pejman-hero-v3.png
+
+Use case: identity-preserve. Input image is the edit target: an existing monochrome website hero portrait. Make a very subtle grooming correction to ONLY his hair: tame the few unruly upward spikes and flyaway strands at the crown, slightly neaten the outline and give the short hair a natural, softly organized texture suitable for a professional portrait. Preserve his existing haircut, hairline, length, density and natural volume; do not create a different hairstyle or slick it down. Keep his face, identity, glasses, expression, head angle, skin texture, clothing, body, lighting, dark background and exact wide framing unchanged. No other retouching, no text.
